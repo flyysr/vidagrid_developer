@@ -1,1 +1,1 @@
-#REST API SDK for PHP
+#REST API SDK for JavaScript
